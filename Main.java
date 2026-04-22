@@ -18,6 +18,7 @@ public class  Main {
         System.out.println(declarationDate);
         System.out.println(summary);
         System.out.println(greatingName);
+        System.out.println("test");
 
     }
 }
